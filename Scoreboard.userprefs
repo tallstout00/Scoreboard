@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Scoreboard/Scoreboard.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scoreboard/imports.cs">
+    <Files>
+      <File FileName="Scoreboard/Program.cs" Line="69" Column="1" />
+      <File FileName="Scoreboard/MainWindow.cs" Line="31" Column="1" />
+      <File FileName="Scoreboard/Player.cs" Line="12" Column="3" />
+      <File FileName="Scoreboard/Board.cs" Line="250" Column="20" />
+      <File FileName="Scoreboard/GlobalVar.cs" Line="83" Column="3" />
+      <File FileName="Scoreboard/Settings.cs" Line="23" Column="1" />
+      <File FileName="Scoreboard/TestingWindow.cs" Line="1" Column="1" />
+      <File FileName="Scoreboard/ListenPorts.cs" Line="132" Column="5" />
+      <File FileName="Scoreboard/imports.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
